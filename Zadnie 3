@@ -1,9 +1,0 @@
-
-1.	Czym jest pamięć podręczna DNS?
-Pamięć podręczna DNS to miejsce w komputerze, w którym zapisywane są informacje o wcześniej odwiedzonych stronach internetowych. Zawiera ona nazwy stron oraz odpowiadające im adresy IP, dzięki czemu komputer nie musi za każdym razem szukać tych danych w sieci.
-2.	Dlaczego komputer zapisuje odwiedzone adresy?
-Komputer przechowuje adresy stron, ponieważ:
-- przyspiesza to otwieranie stron,
-- zmniejsza ilość zapytań wysyłanych do serwerów,
-- poprawia działanie Internetu,
-- oszczędza czas i zasoby sieci.
